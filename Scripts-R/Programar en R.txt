@@ -1,0 +1,40 @@
+Para la preparación de aplicaciones basadas en datos hemos optado por usar R como una de las plataformas de procesamiento. 
+Por comodidad se puede usar RStudio como interface gráfica.  
+La comunidad alrededor de R es enorme y muy dinámica, se sugiere recorrer la Web para darse una idea. 
+
+R
+http://cran.r-project.org/
+
+RStudio y Shiny
+http://www.rstudio.com/
+
+Documentos impulsados por datos
+http://http://d3js.org/
+
+"Web semántica"
+http://semanticweb.org/wiki/Main_Page
+
+Proyecto de Ciencia Abierta
+http://www.openscience.org/blog/
+
+R para el proyecto de Ciencia Abierta
+http://ropensci.org/
+
+Acceso abierto a publicaciones 
+http://www.opensciencedirectory.net/
+
+Acceso abierto a datos
+https://www.dataone.org/
+http://www.re3data.org/
+
+Ciencia ciudadana
+http://publiclab.org/
+https://www.zooniverse.org/
+
+Curiosidades para niños???
+http://blog.ldodds.com/2012/05/18/open-data-for-big-kids/
+
+Obtener datos de páginas
+https://import.io/
+
+
