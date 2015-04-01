@@ -1,0 +1,27 @@
+Hay varias plataformas útiles para enseñar programación a los niños una de ellas es Scratch (http://scratch.mit.edu/) otra puede ser Processing http://processing.org.
+
+Algunos educadores con experiencia en la enseñanza de fundamentos de programación a niños y jóvenes indican que los que tienen entre 5 y 11 años tiene “tal capacidad para aprender sobre algoritmos e informática que sería una pena esperar hasta que fueran adolescentes para enseñarles esos fundamentos”.
+
+Como sucede con los idiomas, la formulación de los llamados recuerdos “procedimentales” es algo totalmente natural en esas jóvenes mentes. Estos tipos de recuerdo se caracterizan por estar tan integrados en la psique de una persona que acceder a ellos es un reflejo natural, y no tanto una tarea que realicemos conscientemente”. Los niños de 5 años, por ejemplo, suelen tener una facilidad asombrosa para absorber ese tipo de materias, algo que popularmente hace que les comparemos con esponjas.
+
+Las evidencias de diversos estudios apuntan a ese factor y al hecho de que a medida que el cerebro va madurando, su capacidad para la memoria procedimental disminuye en favor de una memoria declarativa, que usamos para amasar hechos y conocimientos. “La desventaja de la memoria declarativa es que requiere un esfuerzo mental para activarla, una gran desventaja cuando por ejemplo tratamos de conjugar un verbo extraño de otro idioma de repente. Es preferible que esas conjugaciones formen parte de tu segunda naturaleza como consecuencia de haberlos aprendido cuando tu memoria procedimental estaba en su punto álgido”.
+
+Estas ideas se conjugan en razones por las que es importante enseñar a programar a los niños. 
+
+
+1. Es como aprender un idioma más: Los juegos y los lenguajes de programación visuales permiten a los niños entender la lógica de la programación y sus conceptos antes incluso de que los niños puedan leer. Las técnicas y lenguajes utilizados (Scratch es un ejemplo cada vez más popular) están orientados a niños, y son un paso básico que ayudará a aprender más adelante lenguajes de programación tradicionales.
+
+2. La diversidad es ventajosa para los niños: aprender materias distintas como las que se imparten en los cursos de programación amplía la capacidad de los pequeños, y ayuda a que éstos piensen y se enfrenten mejor a los problemas.
+
+3. Alfabetismo digital: la relevancia de la tecnología en nuestros días hace que poder interactuar con ella de forma natural ya sea un valor añadido muy importante para este tipo de materias educativas. Los niños que aprenden a programar no solo interactúan con la tecnología: la crean, y se expresan a través de ella de distintas formas.
+
+4. Se necesitan programadores: en la propia Code.org reflejaban otro de los datos más interesantes en ese aprendizaje: la demanda de programadores crecerá de forma dramática en los próximos años. Sólo en Estados Unidos se calcula que para el año 2020 habrá 1 millón más de trabajos de los que podrán cubrir los licenciados e ingenieros en Informática según los planes de estudio actuales. “Informática es el título universitario mejor pagado, y los trabajos de programación están creciendo el doble que la media nacional del país”, indican en un reciente estudio.
+
+5. Lo cierto es que hay muchísimos argumentos más para aprender a programar, pero uno importante llegaba del pensador y escritor Douglas Rushkoff, que en una entrevista reciente comentaba cómo la mayoría de las interacciones que tendremos en 50 años no serán con personas que hablen un solo idioma en Asia: serán con máquinas. No es mal argumento.
+
+Para acabar, os enlazamos con un artículo donde hace poco selecionábamos una serie de apps para que niños pudieran aprender a programar facilmente.
+
+mSchools es una iniciativa conjunta de Mobile World Capital Barcelona y GSMA destinada a formar a los alumnos de secundaria en la creación y uso de soluciones móviles. Este programa tiene como objetivo reducir las tasas de abandono escolar, mejorar el rendimiento de los alumnos y preparar a los estudiantes para las necesidades que impone el mundo digital.
+
+Más información: 
+http://mobileworldcapital.com/es/262/
