@@ -8,7 +8,6 @@ Las evidencias de diversos estudios apuntan a ese factor y al hecho de que a med
 
 Estas ideas se conjugan en razones por las que es importante enseñar a programar a los niños. 
 
-
 1. Es como aprender un idioma más: Los juegos y los lenguajes de programación visuales permiten a los niños entender la lógica de la programación y sus conceptos antes incluso de que los niños puedan leer. Las técnicas y lenguajes utilizados (Scratch es un ejemplo cada vez más popular) están orientados a niños, y son un paso básico que ayudará a aprender más adelante lenguajes de programación tradicionales.
 
 2. La diversidad es ventajosa para los niños: aprender materias distintas como las que se imparten en los cursos de programación amplía la capacidad de los pequeños, y ayuda a que éstos piensen y se enfrenten mejor a los problemas.
